@@ -1,16 +1,23 @@
 ### Hi there 👋
+ My name is Ilma Difani Putri . You can call me Ilma. I am undergraduate Information System at President University. I am very interested in website technology using python. I'm currently learning Next python for websites. See on my progress.
 
-<!--
-**ilmadifaniputri/ilmadifaniputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Experiences
+- Html,
+- css,
+- JavaScript,
+- python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### ⚡ I'm still learning :
+- 🔭 I’m currently working on website using html,css,javascript
+- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 My Social Media:
+- Email: ilmadifaniputri82@gmail.com
+- LinkedIn: Ilma Difani Putri or Link: https://www.linkedin.com/in/ilmadifaniputri/
+- Instagram: @ilmadifaniputri or Link : https://www.instagram.com/ilmadifaniputri
+
+---
+
+
+

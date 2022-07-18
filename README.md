@@ -1,5 +1,5 @@
 ### Hi there 👋
- My name is Ilma Difani Putri . You can call me Ilma. I am undergraduate Information System at President University. I am very interested in website technology using python. I'm currently learning Next python for websites. See on my progress.
+ My name is Ilma Difani Putri . You can call me Ilma. I am undergraduate Information System at President University. I am very interested in website technology using python. I'm currently learning next python for websites. See on my progress.
 
 ## 💻 Experiences
 - Html,

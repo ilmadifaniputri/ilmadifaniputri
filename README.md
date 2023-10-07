@@ -13,8 +13,8 @@
 - 👯 I’m looking to collaborate on to make a website together
 
 ### 🚀 My Social Media:
-- Email: ilmadifaniputri82@gmail.com
-- LinkedIn: Ilma Difani Putri or Link: https://www.linkedin.com/in/ilmadifaniputri/
+- Email: ilmadifaniputri82@gmail.com or Link : / https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=ilmadifaniputri82@gmail.com
+- LinkedIn: Ilma Difani Putri or Link : https://www.linkedin.com/in/ilmadifaniputri/
 - Instagram: @ilmadifaniputri or Link : https://www.instagram.com/ilmadifaniputri
 
 ---
